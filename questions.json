@@ -1,0 +1,53 @@
+
+[
+    {
+        "question": "What does npm stand for?",
+        "options": ["Node Package Manager", "Node Project Manager", "Node Package Module", "None of the above"],
+        "answer": "Node Package Manager"
+    },
+    {
+        "question": "Which of the following is a core module in Node.js?",
+        "options": ["http", "fs", "path", "all of the above"],
+        "answer": "all of the above"
+    },
+    {
+        "question": "Which module is used to create a web server in Node.js?",
+        "options": ["http", "fs", "url", "path"],
+        "answer": "http"
+    },
+    {
+        "question": "What does the fs module in Node.js stand for?",
+        "options": ["File System", "Function System", "Folder System", "None of the above"],
+        "answer": "File System"
+    },
+    {
+        "question": "Which of the following is used to handle asynchronous operations in Node.js?",
+        "options": ["Promises", "Callbacks", "Async/Await", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the 'npm init' command in Node.js?",
+        "options": ["To initialize a new Node.js project", "To install a new npm package", "To run unit tests", "To start a Node.js server"],
+        "answer": "To initialize a new Node.js project"
+    },
+    {
+        "question": "What does the 'process.argv' array contain in a Node.js application?",
+        "options": ["The arguments passed to the Node.js process", "The environment variables of the process", "The current working directory of the process", "The standard input/output streams of the process"],
+        "answer": "The arguments passed to the Node.js process"
+    },
+    {
+        "question": "Which method is used to include external modules in Node.js?",
+        "options": ["require()", "import", "include()", "load()"],
+        "answer": "require()"
+    },
+    {
+        "question": "What is the purpose of the 'package.json' file in a Node.js project?",
+        "options": ["To store project metadata and configuration", "To define project dependencies", "To specify project scripts", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which method is used to handle errors in asynchronous Node.js operations?",
+        "options": ["try...catch", "error event emitter", "callback functions", "Promise.catch()"],
+        "answer": "callback functions"
+    }
+]
